@@ -1,0 +1,6 @@
+dependencies:
+- name: logzio-otel-traces
+  repository: https://logzio.github.io/logzio-helm
+  version: 0.0.1
+digest: sha256:da0380a26e710e5c2d176d9d3c911a6050917c6a8e42d22f60d4880652714ada
+generated: "2021-10-25T13:58:58.24319686-07:00"

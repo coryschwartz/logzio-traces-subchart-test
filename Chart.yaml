@@ -1,0 +1,10 @@
+apiVersion: v2
+name: test
+description: test if logzio opentelemetry can be installed this way
+type: application
+version: 0.0.1
+appVersion: 0.0.1
+dependencies:
+  - name: "logzio-otel-traces"
+    version: "0.0.1"
+    repository: "https://logzio.github.io/logzio-helm"
